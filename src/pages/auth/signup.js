@@ -60,7 +60,7 @@ export default function SignUp() {
       </form>
       <button
         style={{ padding: 10, marginTop: 10 }}
-        onClick={() => router.push('/signin')}
+        onClick={() => router.push('/auth/signin')}
       >
         Já tem conta? Entre
       </button>
