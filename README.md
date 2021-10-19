@@ -9,8 +9,8 @@
 ### Variáveis de ambiente
 
 ```
-NEXTAUTH_URL= url da própria aplicação (em desenvolvimento = http://localhost:3000/ e em produção o domínio base)
-NEXT_PUBLIC_STRAPI= url base para o backend
+NEXTAUTH_URL= url da própria aplicação (em desenvolvimento = http://localhost:3000 e em produção o domínio base)
+NEXT_PUBLIC_STRAPI= url base para o backend (sem a "/")
 ```
 
 ### Instruções
